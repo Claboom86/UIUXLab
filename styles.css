@@ -28,12 +28,12 @@ nav {
 form {
     background-color: #7c8d7f;
         padding: 25px;
-    border-radius: 15px;
     position: fixed;
     margin-top: 100px;
     left: 50%;
     transform: translatex(-50%);
     width: 80%;
+    box-shadow: 5px 5px 2px #282727;
 }
 
 p {
@@ -55,7 +55,7 @@ img {
     margin-left: 0px;
     margin-right: 10px;
     margin-bottom: -20px;
-    border-radius: 15px;
+    box-shadow: 5px 5px 2px #282727;
 }
 
 .btn {
